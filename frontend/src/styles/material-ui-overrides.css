@@ -1,0 +1,5 @@
+/* Optional Material UI overrides */
+.MuiButton-root {
+  background-color: #1976d2;
+  color: white;
+}
